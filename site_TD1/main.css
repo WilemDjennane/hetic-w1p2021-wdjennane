@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'SEASRN';
+    src: url('Polices/SEASRN.ttf')
+}
+
+
+h1
+{
+    font-size: 60px;
+    font-family: 'SEASRN'
+}
