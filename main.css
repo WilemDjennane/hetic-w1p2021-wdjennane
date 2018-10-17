@@ -2,13 +2,12 @@ h1
 {
     text-align: center;
 		font-size: 60px;
-		font-family: "Cookie-Regular",sans-serif;
+		font-family: 'PRIMETIME';
 }
 
 @font-face {
-	font-family: 'Cookie-Regular';
-	src: url("https://github.com/google/fonts/blob/master/ofl/cookie/Cookie-Regular.ttf");
-	
+  font-family: "PRIMETIME";
+  src: url("font/PRIMETIME.ttf") format("ttf");
 }
 
 .center {
