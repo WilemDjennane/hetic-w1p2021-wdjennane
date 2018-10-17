@@ -1,7 +1,14 @@
 h1
 {
     text-align: center;
-    font-size: 60px;
+		font-size: 60px;
+		font-family: "Cookie-Regular",sans-serif;
+}
+
+@font-face {
+	font-family: 'Cookie-Regular';
+	src: url("https://github.com/google/fonts/blob/master/ofl/cookie/Cookie-Regular.ttf");
+	
 }
 
 .center {
