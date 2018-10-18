@@ -20,6 +20,10 @@ li {
 
 body {
   background-image: url(background/50-Beautiful-and-Minimalist-Presentation-Backgrounds-037.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-attachment: fixed;
 }
 
 a {
