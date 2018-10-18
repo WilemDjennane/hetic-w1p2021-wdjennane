@@ -7,7 +7,7 @@ h1
 
 @font-face {
   font-family: "PRIMETIME";
-  src: url("font/PRIMETIME.ttf") format("ttf");
+  src: url("font/PRIMETIME.ttf") 
 }
 
 .center {
